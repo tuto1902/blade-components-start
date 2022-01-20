@@ -1,4 +1,8 @@
 
+## Requirements
+- PHP 7.3 or higher
+- PHP 8.0 or higher
+
 ## Installation
 
 ````
